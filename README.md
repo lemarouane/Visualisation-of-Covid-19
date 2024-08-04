@@ -3,7 +3,7 @@
 This project involves the analysis and visualization of COVID-19 data, providing insights into the global impact of the pandemic. The code is written in Python and utilizes various data analysis and visualization libraries. Below is a brief overview of the project components:
 
 ## Project Structure:
-
+ 
 - **Notebook Files:**
   - `covid-19-marouane-haddad.ipynb`: The main Jupyter notebook containing the entire data analysis and visualization process.
   
