@@ -10,7 +10,7 @@ This project involves the analysis and visualization of COVID-19 data, providing
 - **Data File:**
   - `data.csv`: CSV file containing COVID-19 data. Make sure to replace it with the latest dataset if needed.
 
-- **Libraries Used:**
+- **Libraries Used:** 
   - **pandas:** Data manipulation and analysis.
   - **matplotlib.pyplot:** Plotting and visualization.
   - **seaborn:** Statistical data visualization.
