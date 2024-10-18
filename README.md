@@ -37,7 +37,7 @@ This project involves the analysis and visualization of COVID-19 data, providing
 ### 5. Global Heatmaps:
    - Three global heatmaps illustrate the worldwide distribution of confirmed cases, deaths, and recoveries.
 
-### 6. Geographic Visualization:
+### 6. Geographic Visualization: 
    - Geopandas is used to create maps showing the geographic distribution of confirmed cases, deaths, and recoveries.
 
 ## How to Use:
